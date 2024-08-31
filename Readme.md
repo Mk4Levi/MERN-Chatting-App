@@ -1,10 +1,10 @@
-# MK-CodeZone
+# MERN-Chatting-App
 
-MK-CodeZone is a full-stack EdTech platform for programers built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It serves as a central hub for developers to connect, buy courses and explore the exciting world of programming together.
+This MERN-Chatting-App is a real-time messaging platform. It supports user authentication, one-on-one and group chats, with real-time updates via WebSockets. The responsive React.js front-end ensures a smooth UX, while the Node.js and Express.js backend efficiently manages data and user interactions.
 
 ### Project Link:
 
-[Visit Project's Live Web-App](https://chat-app-mk.vercel.app/)
+[Visit Project's Live Web-App](https://chatting-app-mk.vercel.app/)
 
 ## Project's Screenshots =>
 
@@ -53,7 +53,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/mk4levi/MERN-Chat-App.git
+   git clone https://github.com/mk4levi/MERN-Chatting-App.git
 
    ```
 
